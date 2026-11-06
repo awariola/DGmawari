@@ -25,7 +25,7 @@ When I'm not working with data, I enjoy playing games, soccer, and hiking. I lov
 ## 🔭 What I'm Currently Working On 
 
 - **Project A:** Built a sales dashboard using excel and power bi 
-- **Project B:** BUilt a traffic dashord using excel and power bi
+- **Project B:** Built a traffic dashord using excel and power bi
 
 ## 🌱 Currently Learning 
 
